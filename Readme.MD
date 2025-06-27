@@ -1,4 +1,3 @@
-
 Traffic Light Control with Arduino Uno and LabVIEW
 Overview
 This project simulates a traffic light system using an Arduino Uno and LabVIEW. The Arduino controls three LEDs (Red, Green, Yellow) to replicate a traffic light sequence, while LabVIEW provides a graphical interface to manage the sequence and adjust timing parameters.
